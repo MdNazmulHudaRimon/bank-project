@@ -1,0 +1,31 @@
+#login-area{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 30px;
+    border-radius: 10px;
+}
+#login-area h1{
+    text-align: center;
+}
+#transaction-area{
+    display: none;
+    margin-top: 70px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    margin: 0 15px;
+    padding: 25px;
+    color: #fff;
+    border-radius: 10px;
+}
